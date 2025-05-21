@@ -1,4 +1,4 @@
-# 📸 Telegram Photo Capture and Send Bot 🤖
+د# 📸 Telegram Photo Capture and Send Bot 🤖
 
 This project captures an image from your webcam and sends it via a Telegram bot. The script automatically captures an image and sends it to a specified Telegram chat at a scheduled time using **Windows Task Scheduler**. 🌟
 
